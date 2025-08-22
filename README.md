@@ -21,3 +21,11 @@ Requeriments.txt
 7. Formulario de contacto para consultas
 8. Sección de eventos y actividades comunitarias
 9. Recursos descargables (guías, infografías)
+10. Acceso gratuito sin registro obligatorio
+11. Tiempo de carga < 3 segundos
+
+## Métricas de Éxito
+1. +1,000 visitas/mes en primeros 3 meses
+2. Tasa de rebajo < 40%
+3. +15 minutos de tiempo promedio en sitio
+4. +30% de usuarios que usan el asistente de IA
