@@ -29,3 +29,33 @@ Requeriments.txt
 2. Tasa de rebajo < 40%
 3. +15 minutos de tiempo promedio en sitio
 4. +30% de usuarios que usan el asistente de IA
+
+
+#Lista de comprobacion de errores:
+DISEñO Y ACCESIBILIDAD
+
+ ¿El título principal aparece centrado en la página inicial?
+ ¿La página es responsiva (se adapta a móviles, tablets y PC)?
+ ¿El diseño es atractivo y accesible (colores legibles, contraste adecuado, texto alternativo en imágenes)?
+ ¿El tiempo de carga de la página es menor a 3 segundos?
+ 
+FUNCIONALIDADES CLAVES
+ ¿El acceso es gratuito y no pide registro obligatorio?
+ ¿Está integrado el asistente de IA para consultas ecológicas?
+ ¿Existen las secciones principales: Deforestación, Ahorro de Agua, Energía Renovable?
+ ¿Se incluye una galería de imágenes comparativas (impacto vs solución)?
+ ¿Funciona el sistema de cálculo de huella ecológica correctamente?
+ ¿El blog educativo permite publicar y leer artículos sobre sostenibilidad?
+ 
+INTERACCION CON USUARIOS
+ ¿El formulario de contacto envía correctamente los mensajes?
+ ¿La sección de eventos y actividades comunitarias se muestra de manera clara y actualizada?
+ ¿Se pueden descargar los recursos (guías, infografías) sin problemas?
+
+CONTENIDO
+ ¿Las imágenes muestran tanto el impacto negativo como las acciones positivas?
+ ¿El contenido transmite claramente los consejos sobre cambio climático?
+
+METRICAS DE EXITO
+ ¿El sistema de análisis permite medir visitas, tiempo en página y tasa de rebote?
+ ¿Se puede rastrear el uso del asistente de IA por parte de los usuarios?
